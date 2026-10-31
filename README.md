@@ -3,7 +3,7 @@
 <p align="center">Transformer · EEG · Android XR · visionOS · PICO OS 6 · PC</p>
 <p align="center"><a href="https://MindSoul.cn">官方网站 · MindSoul.cn</a></p>
 
-MindSoul 团队致力于基于 Transformer 的脑信号解码算法、多模态标注工具和跨平台脑机交互客户端，面向科研团队与医院研究机构，分阶段公开源码，支持非商业学习、复现与研究。
+MindSoul 团队致力于基于 Transformer 的脑信号解码算法、多模态标注工具和跨平台脑机交互客户端，面向科研团队与医院研究机构，分阶段公开源码，支持个人研究与复现。
 
 ## 团队使命 · 严肃科研，探索意识与交互的未来
 
@@ -104,13 +104,11 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 - **多模态标注**：建设 MEG → EEG、EEG → fMRI 的对齐、标注和验证工作流。
 - **跨平台交互**：连接 PC、Android XR、visionOS 与 PICO OS 6 的研究客户端。
 
-上述方向不构成已验证性能或临床有效性声明。医院机构可在许可范围内用于非商业学习与研究；诊疗、收费服务或商业部署不在本许可授权范围内。
+上述方向不构成已验证性能或临床有效性声明。
 
 ## 使用许可
 
-**源码公开 · 仅限非商业学习与研究 · 禁止商业使用。**
-
-采用自定义 [MindSoul 非商业学习与研究许可](LICENSE)。这是一种 source-available 许可，不属于 OSI 认可的开源许可。第三方依赖遵循其原有许可；本许可不覆盖第三方权利。
+使用范围详见 [LICENSE](LICENSE)。商业使用或机构合作，请通过 [MindSoul.cn](https://MindSoul.cn) 或下方微信联系 MindSoul团队，另行取得授权。
 
 ## 科研引用
 
@@ -129,7 +127,7 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 
 ## English
 
-MindSoul explores Transformer-based brain-signal decoding, multimodal annotation and cross-platform BCI research clients. Phase 1 prioritizes text and image decoding, SSVEP, motor imagery and the PC desktop client. Further algorithms, XR clients and MEG-to-EEG and EEG-to-fMRI annotation and translation tools are planned after this flagship repository reaches 1,000 stars. Code availability will be documented per release. Non-commercial learning and research only; commercial use is prohibited. No clinical validation is implied.
+MindSoul explores Transformer-based brain-signal decoding, multimodal annotation and cross-platform BCI research clients. Phase 1 prioritizes text and image decoding, SSVEP, motor imagery and the PC desktop client. Further algorithms, XR clients and MEG-to-EEG and EEG-to-fMRI annotation and translation tools are planned after this flagship repository reaches 1,000 stars. Code availability will be documented per release. See LICENSE for permitted use. Contact the MindSoul team for commercial or institutional licensing. No clinical validation is implied.
 
 ## 品牌与探索计划 · 海报展示
 
