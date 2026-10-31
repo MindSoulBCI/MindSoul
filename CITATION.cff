@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "如果使用本项目开展研究，请引用 MindSoul团队，并注明实际使用的版本或提交编号。"
+type: software
+title: "MindSoul：脑机接口基座模型与跨平台研究生态"
+authors:
+  - name: "MindSoul团队"
+repository-code: "https://github.com/kevin12312312/MindSoul"
+url: "https://MindSoul.cn"

@@ -1,6 +1,6 @@
 <p align="center"><img src="mindsoul-logo.png" width="180" alt="MindSoul"></p>
 <h1 align="center">MindSoul · 脑机接口基座模型与跨平台研究生态</h1>
-<p align="center">Transformer · EEG · Multimodal Alignment · Spatial Computing</p>
+<p align="center">Transformer · EEG · Android XR · visionOS · PICO OS 6 · PC</p>
 <p align="center"><a href="https://MindSoul.cn">官方网站 · MindSoul.cn</a></p>
 
 MindSoul 团队致力于基于 Transformer 的脑信号解码算法、多模态标注工具和跨平台脑机交互客户端，面向科研团队与医院研究机构，分阶段公开源码，支持非商业学习、复现与研究。
@@ -27,9 +27,52 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 
 ## 32 通道科研套装
 
-**32 通道脑机接口设备＋MindSoul 软件平台：人民币 10,000 元 / 套。**
+**32 通道脑机接口设备＋MindSoul 软件平台：整套售价不到人民币 20,000 元，具体配置与报价请微信联系。**
+
+团队将持续优化成本，目标是把 **32 通道、干电极、可移动的脑机接口＋MindSoul 软件平台整套方案降低至人民币 10,000 元以内**。这是后续研发与成本目标，不代表当前售价或当前硬件已具备全部上述规格。
 
 具体硬件配置、软件版本、配件、税费及服务范围以正式报价为准。路线图中的待发布功能不代表已包含在当前交付版本中。采购与科研合作：[MindSoul.cn](https://MindSoul.cn)。
+
+## 跨平台支持方向 · Android XR / visionOS / PICO OS 6
+
+**重点适配 Android XR、visionOS 与 PICO OS 6，并提供 PC 桌面研究入口。** 客户端源码按路线分阶段公开；具体设备、系统版本及可用功能以发布说明为准。
+
+团队提供的眼镜展示包括 **URXR One、XREAL AURA、Apple Vision Pro、PICO 4 Ultra**；更多品牌方向包括玩出梦想。以下沿用原海报中的眼镜图片，展示适配生态，不表示全部型号已完成测试或获得厂商认证。
+
+<p align="center"><img src="poster-xr.jpg" width="720" alt="URXR One、XREAL AURA、Apple Vision Pro 与 PICO 4 Ultra；Android XR、visionOS、PICO OS 6"></p>
+
+## 任务公开进度
+
+进度以可下载源码、版本和说明为依据；当前公开的是主页与路线图，以下勾选项将在实际发布后更新。
+
+- [ ] 首批 · 文字脑信号解码
+- [ ] 首批 · 图像脑信号解码
+- [ ] 首批 · SSVEP 稳态视觉诱发电位解码
+- [ ] 首批 · 运动想象解码
+- [ ] 首批 · PC 桌面研究客户端
+- [ ] 后续 · 情绪识别
+- [ ] 后续 · 专注度识别
+- [ ] 后续 · 四肢控制
+- [ ] 后续 · 十根手指控制
+- [ ] 后续 · 上下左右与方位控制
+- [ ] 后续 · Android XR、visionOS、PICO OS 6 客户端源码
+- [ ] 后续 · MEG → EEG、EEG → fMRI 标注与翻译器
+
+<p align="center"><img src="poster-tasks.jpg" width="900" alt="MindSoul 七类任务研究方向与扩展任务示意"></p>
+
+海报中的训练与能力描述为团队研究方向展示；源码公开状态以上述清单为准。
+
+## 非侵入式脑机接口生态
+
+**优先支持慧仁创新 32 通道脑机接口；同时支持博睿康（Neuracle）与博瑞恩（Boruien）。** 此为团队提供的适配信息，具体型号、协议和验证结果以各版本兼容说明为准，不代表所有同品牌产品均兼容。
+
+| 重点设备 / 品牌 | 展示素材 |
+| --- | --- |
+| 慧仁创新 · 32 通道（官网原页面写作“惠仁创欣”） | <img src="product-huirenchuangxin.jpg" width="240" alt="慧仁创新设备展示"> |
+| 博瑞恩 · Boruien | <img src="product-boruien-cap.jpg" width="240" alt="博瑞恩脑电设备展示"> |
+| 博睿康 · Neuracle | <img src="product-neuracle-device.jpg" width="240" alt="博睿康设备展示"> |
+
+[MindSoul.cn](https://MindSoul.cn) 非侵入式设备页面还列出：BrainCo 强脑科技、BrainLink 脑陆科技（含 Tune、Pro、Lite）、MUSE / InteraXon（含 Muse S Athena）、OpenBCI、IHNNK 华南脑控、NeuroDance 神舞科技。品牌及设备展示不等于正式合作背书；采购前请微信确认具体型号的接入状态。
 
 ## 发布状态
 
@@ -41,12 +84,12 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 | 第一阶段 | 运动想象（Motor Imagery）解码 | 优先发布，源码待上传 |
 | 第一阶段 | PC 桌面研究客户端 | 优先发布，源码待上传 |
 | 1,000 Stars 后 | Android XR、visionOS、PICO OS 6 客户端适配 | 后续公开计划 |
-| 1,000 Stars 后 | 图像识别、文字识别脑信号解码算法 | 后续公开计划 |
+| 第一阶段 | 图像识别、文字识别脑信号解码算法 | 优先发布，源码待上传 |
 | 1,000 Stars 后 | 十根手指、四肢控制、方位控制 | 后续公开计划 |
 | 1,000 Stars 后 | 情绪识别、专注度识别 | 后续公开计划 |
 | 1,000 Stars 后 | MEG → EEG、EEG → fMRI 多模态对齐与标注平台 | 后续公开计划 |
 
-以本成果主仓库的 GitHub Stars 达到 1,000 为第二阶段公开节点，各模块分批发布。具体可用能力、数据集、权重、性能与平台兼容性以每个版本的说明为准。
+文字、图像、SSVEP 与运动想象为首批公开任务，其余任务后续逐步公开。XR 客户端与其他后续模块保留 1,000 Stars 阶段计划，各模块分批发布。具体可用能力、数据集、权重、性能与平台兼容性以每个版本的说明为准。
 
 ## 后续源码公开 · 跨模态标注与翻译器
 
@@ -69,15 +112,24 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 
 采用自定义 [MindSoul 非商业学习与研究许可](LICENSE)。这是一种 source-available 许可，不属于 OSI 认可的开源许可。第三方依赖遵循其原有许可；本许可不覆盖第三方权利。
 
+## 科研引用
+
+如果使用本项目的软件、算法、模型或工具开展研究并发表论文、报告或其他成果，请在参考文献或致谢中注明 **MindSoul团队**，并提供本仓库地址及实际使用的版本或提交编号。请清楚说明使用了哪些模块，以便复现。
+
+建议引用：MindSoul团队. *MindSoul：脑机接口基座模型与跨平台研究生态* [软件项目]. https://github.com/kevin12312312/MindSoul （请补充所用版本或提交编号及访问日期）。
+
+机器可读引用信息见 [CITATION.cff](CITATION.cff)。当前引用对象为项目仓库，不代表已有正式发表论文或 DOI。引用不构成论文共同作者要求；论文署名应依据实际学术贡献与期刊规范确定。
+
 ## 团队与联系
 
 - 成都市脑云矩阵科技有限公司
 - 上海市脑云矩阵科技有限公司
 - 官方网站：[MindSoul.cn](https://MindSoul.cn)
+- 微信咨询：请扫描下方“跨平台终端与空间计算”海报内的微信二维码，咨询配置、报价及科研合作。[打开微信联系海报原图](poster-xr.jpg)。
 
 ## English
 
-MindSoul explores Transformer-based brain-signal decoding, multimodal annotation and cross-platform BCI research clients. Phase 1 prioritizes SSVEP, motor imagery and the PC desktop client. Further algorithms, XR clients and MEG-to-EEG and EEG-to-fMRI annotation and translation tools are planned after this flagship repository reaches 1,000 stars. Code availability will be documented per release. Non-commercial learning and research only; commercial use is prohibited. No clinical validation is implied.
+MindSoul explores Transformer-based brain-signal decoding, multimodal annotation and cross-platform BCI research clients. Phase 1 prioritizes text and image decoding, SSVEP, motor imagery and the PC desktop client. Further algorithms, XR clients and MEG-to-EEG and EEG-to-fMRI annotation and translation tools are planned after this flagship repository reaches 1,000 stars. Code availability will be documented per release. Non-commercial learning and research only; commercial use is prohibited. No clinical validation is implied.
 
 ## 品牌与探索计划 · 海报展示
 
