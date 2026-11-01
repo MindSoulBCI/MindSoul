@@ -1,7 +1,7 @@
 **简体中文** | [English](README.en.md)
 
 <p align="center"><img src="mindsoul-logo.png" width="180" alt="MindSoul"></p>
-<h1 align="center">MindSoul · 脑机接口基座模型与跨平台研究生态</h1>
+<h1 align="center">MindSoul脑机接口的操作系统（BCI基座大模型）</h1>
 <p align="center">Transformer · EEG · Android XR · visionOS · PICO OS 6 · PC</p>
 <p align="center"><a href="https://MindSoul.cn">官方网站 · MindSoul.cn</a></p>
 
