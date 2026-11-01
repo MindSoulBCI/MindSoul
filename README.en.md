@@ -9,6 +9,20 @@ MindSoul develops research on Transformer-based brain-signal decoding, multimoda
 
 **Current status:** this repository presents our research roadmap. Nine model introduction pages and a benchmark preview are available on Hugging Face. Model weights, training code, evaluation results and client source releases are still forthcoming. A published introduction page is not a released model checkpoint.
 
+
+<!-- mindsoul-experience-photos:start -->
+## BCI & spatial computing · Experience photos
+
+Team-provided photos showing an EEG cap worn together with a spatial-computing headset.
+
+<p align="center"><img src="assets/team-photos/bci-xr-demo.png" width="720" alt="现场展示 / Live demonstration"></p>
+
+<p align="center"><img src="assets/team-photos/bci-xr-experience-01.jpg" width="720" alt="体验记录 01 / Experience 01"></p>
+
+<p align="center"><img src="assets/team-photos/bci-xr-experience-02.png" width="720" alt="体验记录 02 / Experience 02"></p>
+
+<!-- mindsoul-experience-photos:end -->
+
 ## Start here
 
 - Explore the [model directory](#neural-ai-model-directory).
