@@ -4,5 +4,5 @@ type: software
 title: "MindSoul：脑机接口基座模型与跨平台研究生态"
 authors:
   - name: "MindSoul团队"
-repository-code: "https://github.com/kevin12312312/MindSoul"
+repository-code: "https://github.com/MindSoulBCI/MindSoul"
 url: "https://MindSoul.cn"
