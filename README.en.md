@@ -3,7 +3,7 @@
 <p align="center"><img src="mindsoul-logo.png" width="180" alt="MindSoul logo"></p>
 <h1 align="center">MindSoul · BCI Foundation Models & Cross-Platform Research</h1>
 <p align="center">Transformer · EEG · Android XR · visionOS · PICO OS 6 · PC</p>
-<p align="center"><a href="https://MindSoul.cn">Website</a> · <a href="https://huggingface.co/mindsoulBCI">Hugging Face</a> · <a href="https://github.com/pm-kevin-zhang/MindSoul-Spatial">Spatial apps, games & assets</a></p>
+<p align="center"><a href="https://MindSoul.cn">Website</a> · <a href="https://huggingface.co/mindsoulBCI">Hugging Face</a> · <a href="https://github.com/MindSoulBCI/MindSoul-Spatial">Spatial apps, games & assets</a></p>
 
 MindSoul develops research on Transformer-based brain-signal decoding, multimodal annotation tools and cross-platform brain–computer interaction. Our ecosystem is intended to support researchers, including hospital research teams, with staged publication of research materials. Institutional use requires appropriate authorization under the applicable license.
 
@@ -13,7 +13,7 @@ MindSoul develops research on Transformer-based brain-signal decoding, multimoda
 
 - Explore the [model directory](#neural-ai-model-directory).
 - Follow the [release roadmap](#release-roadmap) for code and client availability.
-- Visit [MindSoul Spatial](https://github.com/pm-kevin-zhang/MindSoul-Spatial) for the spatial applications project.
+- Visit [MindSoul Spatial](https://github.com/MindSoulBCI/MindSoul-Spatial) for the spatial applications project.
 - Read [LICENSE](LICENSE) before use; contact the team for commercial or institutional licensing.
 
 ## Neural AI model directory
@@ -70,7 +70,7 @@ Our supplied showcase includes **URXR One, XREAL AURA, Apple Vision Pro and PICO
 
 <p align="center"><img src="poster-xr.jpg" width="720" alt="Headset ecosystem: URXR One, XREAL AURA, Apple Vision Pro and PICO 4 Ultra"></p>
 
-The [spatial applications repository](https://github.com/pm-kevin-zhang/MindSoul-Spatial) organizes future work around **games, productivity software and assets**.
+The [spatial applications repository](https://github.com/MindSoulBCI/MindSoul-Spatial) organizes future work around **games, productivity software and assets**.
 
 ## Release roadmap
 
@@ -122,7 +122,7 @@ When using this project's software, algorithms, models or tools in published res
 
 Suggested citation:
 
-> MindSoul Team. *MindSoul: BCI Foundation Models & Cross-Platform Research* [Software project]. https://github.com/pm-kevin-zhang/MindSoul. Include the version or commit and access date.
+> MindSoul Team. *MindSoul: BCI Foundation Models & Cross-Platform Research* [Software project]. https://github.com/MindSoulBCI/MindSoul. Include the version or commit and access date.
 
 Machine-readable citation metadata is available in [CITATION.cff](CITATION.cff). This cites the project, not a published paper or DOI. Citation does not require adding team members as paper co-authors; authorship should reflect actual scholarly contributions.
 
