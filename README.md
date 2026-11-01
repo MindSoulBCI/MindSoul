@@ -187,3 +187,11 @@ MindSoul explores Transformer-based brain-signal decoding, multimodal annotation
 
 公司：**成都（上海）脑云矩阵科技有限公司**
 <!-- mindsoul-huggingface:end -->
+
+<!-- mindsoul-personal-socials:start -->
+## Kevin Zhang · 个人社交主页
+
+- [X / Twitter — Kevin Zhang](https://x.com/zhngjny52976818)
+- [LinkedIn — Jinyi Zhang / Kevin Zhang](https://www.linkedin.com/in/jinyi-zhang-7b096b124/)
+
+<!-- mindsoul-personal-socials:end -->
