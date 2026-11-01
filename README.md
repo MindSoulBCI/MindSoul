@@ -1,3 +1,5 @@
+**简体中文** | [English](README.en.md)
+
 <p align="center"><img src="mindsoul-logo.png" width="180" alt="MindSoul"></p>
 <h1 align="center">MindSoul · 脑机接口基座模型与跨平台研究生态</h1>
 <p align="center">Transformer · EEG · Android XR · visionOS · PICO OS 6 · PC</p>
@@ -114,7 +116,7 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 
 如果使用本项目的软件、算法、模型或工具开展研究并发表论文、报告或其他成果，请在参考文献或致谢中注明 **MindSoul团队**，并提供本仓库地址及实际使用的版本或提交编号。请清楚说明使用了哪些模块，以便复现。
 
-建议引用：MindSoul团队. *MindSoul：脑机接口基座模型与跨平台研究生态* [软件项目]. https://github.com/kevin12312312/MindSoul （请补充所用版本或提交编号及访问日期）。
+建议引用：MindSoul团队. *MindSoul：脑机接口基座模型与跨平台研究生态* [软件项目]. https://github.com/pm-kevin-zhang/MindSoul （请补充所用版本或提交编号及访问日期）。
 
 机器可读引用信息见 [CITATION.cff](CITATION.cff)。当前引用对象为项目仓库，不代表已有正式发表论文或 DOI。引用不构成论文共同作者要求；论文署名应依据实际学术贡献与期刊规范确定。
 
@@ -125,6 +127,8 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 - 微信咨询：请扫描下方“跨平台终端与空间计算”海报内的微信二维码，咨询配置、报价及科研合作。[打开微信联系海报原图](poster-xr.jpg)。
 
 ## English
+
+[Read the full English documentation →](README.en.md)
 
 MindSoul explores Transformer-based brain-signal decoding, multimodal annotation and cross-platform BCI research clients. Phase 1 prioritizes text and image decoding, SSVEP, motor imagery and the PC desktop client. Further algorithms, XR clients and MEG-to-EEG and EEG-to-fMRI annotation and translation tools are planned after this flagship repository reaches 1,000 stars. Code availability will be documented per release. See LICENSE for permitted use. Contact the MindSoul team for commercial or institutional licensing. No clinical validation is implied.
 
