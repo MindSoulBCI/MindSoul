@@ -1,7 +1,7 @@
 [简体中文](README.md) | **English**
 
 <p align="center"><img src="mindsoul-logo.png" width="180" alt="MindSoul logo"></p>
-<h1 align="center">MindSoul · BCI Foundation Models & Cross-Platform Research</h1>
+<h1 align="center">MindSoul: The Operating System for Brain–Computer Interfaces (BCI Foundation Model)</h1>
 <p align="center">Transformer · EEG · Android XR · visionOS · PICO OS 6 · PC</p>
 <p align="center"><a href="https://MindSoul.cn">Website</a> · <a href="https://huggingface.co/mindsoulBCI">Hugging Face</a> · <a href="https://github.com/MindSoulBCI/MindSoul-Spatial">Spatial apps, games & assets</a></p>
 
