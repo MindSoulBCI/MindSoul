@@ -120,8 +120,7 @@ MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交�
 
 ## 团队与联系
 
-- 成都市脑云矩阵科技有限公司
-- 上海市脑云矩阵科技有限公司
+- 成都（上海）脑云矩阵科技有限公司
 - 官方网站：[MindSoul.cn](https://MindSoul.cn)
 - 微信咨询：请扫描下方“跨平台终端与空间计算”海报内的微信二维码，咨询配置、报价及科研合作。[打开微信联系海报原图](poster-xr.jpg)。
 
@@ -146,3 +145,27 @@ MindSoul explores Transformer-based brain-signal decoding, multimodal annotation
 <p align="center"><img src="poster-digital-life.jpg" width="600" alt="MindSoul 人类数字永生探索计划与体验者招募海报"></p>
 
 参与相关体验不意味着获得意识上传或意识永生服务。具体参与条件、数据使用及知情同意安排请通过 [MindSoul.cn](https://MindSoul.cn) 了解。
+
+<!-- mindsoul-huggingface:start -->
+## Hugging Face · 七大 Neural AI 模型
+
+七个模型介绍页已上线，状态为 **准备发布 · 即将更新**；尚未发布模型权重或评测结果。
+
+- [图像识别](https://huggingface.co/mindsoulBCI/mindsoul-image)
+- [文字识别](https://huggingface.co/mindsoulBCI/mindsoul-text)
+- [情绪识别](https://huggingface.co/mindsoulBCI/mindsoul-emotion)
+- [专注力识别](https://huggingface.co/mindsoulBCI/mindsoul-attention)
+- [四肢控制](https://huggingface.co/mindsoulBCI/mindsoul-limbs)
+- [方位识别与控制](https://huggingface.co/mindsoulBCI/mindsoul-direction)
+- [十根手指识别与控制](https://huggingface.co/mindsoulBCI/mindsoul-fingers)
+
+### 首批任务与评测入口 · 即将发布
+
+- [SSVEP](https://huggingface.co/mindsoulBCI/mindsoul-ssvep) — 准备发布 · 即将更新
+- [运动想象](https://huggingface.co/mindsoulBCI/mindsoul-motor-imagery) — 准备发布 · 即将更新
+- [Benchmark](https://huggingface.co/spaces/mindsoulBCI/benchmark) — 准备发布 · 即将更新
+
+[MindSoul 团队主页](https://huggingface.co/mindsoulBCI)
+
+公司：**成都（上海）脑云矩阵科技有限公司**
+<!-- mindsoul-huggingface:end -->
