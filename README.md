@@ -7,6 +7,20 @@
 
 MindSoul 团队致力于基于 Transformer 的脑信号解码算法、多模态标注工具和跨平台脑机交互客户端，面向科研团队与医院研究机构，分阶段公开源码，支持个人研究与复现。
 
+
+<!-- mindsoul-experience-photos:start -->
+## 脑机接口与空间计算 · 体验照片
+
+团队提供的现场与体验照片，展示 EEG 电极帽与空间计算头显的组合佩戴。
+
+<p align="center"><img src="assets/team-photos/bci-xr-demo.png" width="720" alt="现场展示 / Live demonstration"></p>
+
+<p align="center"><img src="assets/team-photos/bci-xr-experience-01.jpg" width="720" alt="体验记录 01 / Experience 01"></p>
+
+<p align="center"><img src="assets/team-photos/bci-xr-experience-02.png" width="720" alt="体验记录 02 / Experience 02"></p>
+
+<!-- mindsoul-experience-photos:end -->
+
 ## 团队使命 · 严肃科研，探索意识与交互的未来
 
 MindSoul 致力于脑信号解码、多模态神经数据研究与跨平台交互。我们希望降低脑机接口科研门槛，让研究者在可复现、可审计的流程中探索人类意识与数字技术的关系。
