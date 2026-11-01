@@ -163,3 +163,11 @@ These original Chinese posters are historical promotional and concept materials.
 </details>
 
 Participation does not provide a consciousness-uploading or immortality service. Contact the team for participation conditions, data use and informed consent arrangements.
+
+<!-- mindsoul-personal-socials:start -->
+## Kevin Zhang · Personal profiles
+
+- [X / Twitter — Kevin Zhang](https://x.com/zhngjny52976818)
+- [LinkedIn — Jinyi Zhang / Kevin Zhang](https://www.linkedin.com/in/jinyi-zhang-7b096b124/)
+
+<!-- mindsoul-personal-socials:end -->
